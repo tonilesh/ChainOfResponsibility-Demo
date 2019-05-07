@@ -1,0 +1,5 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\ConceptArchitect.Patterns.COR\bin\Debug\ConceptArchitect.Patterns.COR.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\ConceptArchitect.Patterns.COR\bin\Debug\ConceptArchitect.Patterns.COR.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\ConceptArchitect.Patterns.COR\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\ConceptArchitect.Patterns.COR\obj\Debug\ConceptArchitect.Patterns.COR.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\ConceptArchitect.Patterns.COR\obj\Debug\ConceptArchitect.Patterns.COR.pdb

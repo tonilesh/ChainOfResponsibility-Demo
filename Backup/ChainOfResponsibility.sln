@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptArchitect.Patterns.COR", "ConceptArchitect.Patterns.COR\ConceptArchitect.Patterns.COR.csproj", "{01E2EA2C-F3A7-44C7-BDA9-63D21AB5F5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORApp01", "CORApp01\CORApp01.csproj", "{FAFB5E97-8FEB-4457-8C9F-33E5A99E1E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E2EA2C-F3A7-44C7-BDA9-63D21AB5F5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E2EA2C-F3A7-44C7-BDA9-63D21AB5F5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E2EA2C-F3A7-44C7-BDA9-63D21AB5F5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E2EA2C-F3A7-44C7-BDA9-63D21AB5F5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFB5E97-8FEB-4457-8C9F-33E5A99E1E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFB5E97-8FEB-4457-8C9F-33E5A99E1E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFB5E97-8FEB-4457-8C9F-33E5A99E1E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFB5E97-8FEB-4457-8C9F-33E5A99E1E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

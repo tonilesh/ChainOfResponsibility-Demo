@@ -1,0 +1,16 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\CORApp01\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\CORApp01\bin\Debug\CORApp01.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\CORApp01\bin\Debug\CORApp01.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\CORApp01\bin\Debug\ConceptArchitect.Patterns.COR.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\CORApp01\bin\Debug\ConceptArchitect.Patterns.COR.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\CORApp01\obj\Debug\CORApp01.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\ChainOfResponsibility\CORApp01\obj\Debug\CORApp01.pdb
+C:\Sample codes\ChainOfResponsibility\CORApp01\obj\Debug\CORApp01.csprojAssemblyReference.cache
+C:\Sample codes\ChainOfResponsibility\CORApp01\obj\Debug\CORApp01.csproj.CoreCompileInputs.cache
+C:\Sample codes\ChainOfResponsibility\CORApp01\obj\Debug\CORApp01.exe
+C:\Sample codes\ChainOfResponsibility\CORApp01\obj\Debug\CORApp01.pdb
+C:\Sample codes\ChainOfResponsibility\CORApp01\bin\Debug\CORApp01.exe
+C:\Sample codes\ChainOfResponsibility\CORApp01\bin\Debug\CORApp01.pdb
+C:\Sample codes\ChainOfResponsibility\CORApp01\bin\Debug\ConceptArchitect.Patterns.COR.dll
+C:\Sample codes\ChainOfResponsibility\CORApp01\bin\Debug\ConceptArchitect.Patterns.COR.pdb
+C:\Sample codes\ChainOfResponsibility\CORApp01\obj\Debug\CORApp01.csproj.CopyComplete

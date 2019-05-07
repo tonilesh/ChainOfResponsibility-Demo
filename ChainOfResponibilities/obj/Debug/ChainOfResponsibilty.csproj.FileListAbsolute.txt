@@ -1,0 +1,5 @@
+C:\Sample codes\ChainOfResponsibility\ChainOfResponibilities\bin\Debug\ConceptArchitect.Patterns.COR.dll
+C:\Sample codes\ChainOfResponsibility\ChainOfResponibilities\bin\Debug\ConceptArchitect.Patterns.COR.pdb
+C:\Sample codes\ChainOfResponsibility\ChainOfResponibilities\obj\Debug\ChainOfResponsibilty.csproj.CoreCompileInputs.cache
+C:\Sample codes\ChainOfResponsibility\ChainOfResponibilities\obj\Debug\ConceptArchitect.Patterns.COR.dll
+C:\Sample codes\ChainOfResponsibility\ChainOfResponibilities\obj\Debug\ConceptArchitect.Patterns.COR.pdb
